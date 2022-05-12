@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: afaustin <afaustin@student.42sp.org.br>          +#+  +:+       +#+        */
+/*   By: adrianofaus <adrianofaus@student.42.fr>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/09/26 18:47:25 by afaustin          #+#    #+#             */
-/*   Updated: 2021/10/04 14:05:46 by afaustin         ###   ########.fr       */
+/*   Created: 2022/03/15 14:38:02 by adrianofaus       #+#    #+#             */
+/*   Updated: 2022/03/15 19:10:14 by adrianofaus      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "../includes/get_next_line.h"
 
 static void	free_null(char	**ptr)
 {

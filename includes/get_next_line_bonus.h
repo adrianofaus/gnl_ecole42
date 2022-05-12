@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line_bonus.h                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: afaustin <afaustin@student.42sp.org.br>          +#+  +:+       +#+        */
+/*   By: adrianofaus <adrianofaus@student.42.fr>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/10/04 11:59:46 by afaustin          #+#    #+#             */
-/*   Updated: 2021/10/04 12:01:46 by afaustin         ###   ########.fr       */
+/*   Created: 2022/03/15 14:37:43 by adrianofaus       #+#    #+#             */
+/*   Updated: 2022/03/15 14:37:45 by adrianofaus      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

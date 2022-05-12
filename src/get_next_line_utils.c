@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line_utils.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: afaustin <afaustin@student.42sp.org.br>          +#+  +:+       +#+        */
+/*   By: adrianofaus <adrianofaus@student.42.fr>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/09/30 18:30:58 by afaustin          #+#    #+#             */
-/*   Updated: 2021/10/03 21:45:04 by afaustin         ###   ########.fr       */
+/*   Created: 2022/03/15 14:37:56 by adrianofaus       #+#    #+#             */
+/*   Updated: 2022/03/15 19:10:23 by adrianofaus      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "../includes/get_next_line.h"
 
 char	*ft_substr(char const *s, unsigned int start, size_t len)
 {
